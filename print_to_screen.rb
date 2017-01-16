@@ -4,6 +4,7 @@ number = 1
 
 	if number ==3
 		puts "mined"
+		number = number + 1
 	else 
 		puts number
 		number = number + 1
